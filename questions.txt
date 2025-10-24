@@ -4,7 +4,7 @@ AI stands for Artificial Intelligence.
 Who is the CEO of Google?
 Sundar Pichai is the CEO of Google.
 
-What is Machine Learning?
+Define Machine Learning?
 Machine Learning is a branch of Artificial Intelligence that allows computers to learn from data and improve over time without being explicitly programmed.
 
 What is Python used for?
